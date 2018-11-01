@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{ester1996density}
+Martin Ester, Hans-Peter Kriegel, J{\"o}rg Sander, Xiaowei Xu, et~al.
+\newblock A density-based algorithm for discovering clusters in large spatial
+  databases with noise.
+\newblock In {\em Kdd}, volume~96, pages 226--231, 1996.
+
+\bibitem{kumar2016fast}
+K~Mahesh Kumar and A~Rama~Mohan Reddy.
+\newblock A fast dbscan clustering algorithm by accelerating neighbor searching
+  using groups method.
+\newblock {\em Pattern Recognition}, 58:39--48, 2016.
+
+\bibitem{palma2008clustering}
+Andrey~Tietbohl Palma, Vania Bogorny, Bart Kuijpers, and Luis~Otavio Alvares.
+\newblock A clustering-based approach for discovering interesting places in
+  trajectories.
+\newblock In {\em Proceedings of the 2008 ACM symposium on Applied computing},
+  pages 863--868. ACM, 2008.
+
+\end{thebibliography}
