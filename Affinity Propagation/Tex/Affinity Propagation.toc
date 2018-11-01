@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}引言}{2}
+\contentsline {section}{\numberline {2}Affinity Propagation}{2}
+\contentsline {subsection}{\numberline {2.1}相似度矩阵}{2}
+\contentsline {subsection}{\numberline {2.2}Responsibility Matrix}{2}
+\contentsline {subsection}{\numberline {2.3}Availability Matrix}{3}
+\contentsline {subsection}{\numberline {2.4}决策过程}{3}
+\contentsline {section}{\numberline {3}例子}{4}
+\contentsline {section}{\numberline {4}总结}{5}
